@@ -126,5 +126,5 @@
 
 ### Xterm 256 色图 ###
 
-![色图](https://github.com/arandintday/project_sandsugar/blob/master/IMG/color_pic.png)
+![色图](https://github.com/arandintday/project_sandsugar/raw/master/IMG/color_pic.png)
 
