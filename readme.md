@@ -126,5 +126,5 @@
 
 ### Xterm 256 色图 ###
 
-![色图](https://i.loli.net/2021/02/02/K2loMZEkYix3Gcr.png)
+![色图](https://github.com/arandintday/project_sandsugar/blob/master/IMG/color_pic.png)
 
